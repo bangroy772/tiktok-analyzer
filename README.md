@@ -1,3 +1,5 @@
+# Version 20240707
+
 # TikTok Analyzer
 This project was created to show how you can crawl videos from TikTok and convert speech (coming from video) to text.
 
